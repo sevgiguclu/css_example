@@ -2005,5 +2005,319 @@ footer{
 	text-decoration: underline;
 }
 
-	
-	
+#TamSayfaCerceveAlani{
+	position: relative;
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	outline: none;
+	background-color: #EEE;
+	vertical-align: top;
+	text-align: center;
+}
+@media only screen and (min-width:1200px){ /* XL */
+	#TamSayfaCerceveAlani{
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+}
+@media only screen and (max-width:1199px){ /* L - M - S - XS */
+	#TamSayfaCerceveAlani{
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+}
+
+#TamSayfaCerceveSinirlamaAlani{
+	position: relative;
+	display: block;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	border:1px solid #DDD;
+	overflow: hidden;
+	outline: none;
+	background-color: #FFF;
+	vertical-align: middle;
+	text-align: center;
+}
+@media only screen and (min-width:1200px){ /* XL */
+	#TamSayfaCerceveSinirlamaAlani{
+		width: -webkit-calc(1175px - 52px);
+		width: -moz-calc(1175px - 52px);
+		width: -o-calc(1175px - 52px);
+		width: -ms-calc(1175px - 52px);
+		width: calc(1175px - 52px);
+		min-width: -webkit-calc(1175px - 52px);
+		min-width: -moz-calc(1175px - 52px);
+		min-width: -o-calc(1175px - 52px);
+		min-width: -ms-calc(1175px - 52px);
+		min-width: calc(1175px - 52px);
+		max-width: -webkit-calc(1175px - 52px);
+		max-width: -moz-calc(1175px - 52px);
+		max-width: -o-calc(1175px - 52px);
+		max-width: -ms-calc(1175px - 52px);
+		max-width: calc(1175px - 52px);
+		padding: 20px;
+	}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){ /* L */
+	#TamSayfaCerceveSinirlamaAlani{
+		width: -webkit-calc(100% - 48px);
+		width: -moz-calc(100% - 48px);
+		width: -o-calc(100% - 48px);
+		width: -ms-calc(100% - 48px);
+		width: calc(100% - 48px);
+		min-width: -webkit-calc(100% - 48px);
+		min-width: -moz-calc(100% - 48px);
+		min-width: -o-calc(100% - 48px);
+		min-width: -ms-calc(100% - 48px);
+		min-width: calc(100% - 48px);
+		max-width: -webkit-calc(100% - 48px);
+		max-width: -moz-calc(100% - 48px);
+		max-width: -o-calc(100% - 48px);
+		max-width: -ms-calc(100% - 48px);
+		max-width: calc(100% - 48px);
+		padding: 18px;
+	}
+}
+@media only screen and (min-width:768px) and (max-width:991px){ /* M */
+	#TamSayfaCerceveSinirlamaAlani{
+		width: -webkit-calc(100% - 44px);
+		width: -moz-calc(100% - 44px);
+		width: -o-calc(100% - 44px);
+		width: -ms-calc(100% - 44px);
+		width: calc(100% - 44px);
+		min-width: -webkit-calc(100% - 44px);
+		min-width: -moz-calc(100% - 44px);
+		min-width: -o-calc(100% - 44px);
+		min-width: -ms-calc(100% - 44px);
+		min-width: calc(100% - 44px);
+		max-width: -webkit-calc(100% - 44px);
+		max-width: -moz-calc(100% - 44px);
+		max-width: -o-calc(100% - 44px);
+		max-width: -ms-calc(100% - 44px);
+		max-width: calc(100% - 44px);
+		padding: 16px;
+	}
+}
+@media only screen and (min-width:576px) and (max-width:767px){ /* S */
+	#TamSayfaCerceveSinirlamaAlani{
+		width: -webkit-calc(100% - 40px);
+		width: -moz-calc(100% - 40px);
+		width: -o-calc(100% - 40px);
+		width: -ms-calc(100% - 40px);
+		width: calc(100% - 40px);
+		min-width: -webkit-calc(100% - 40px);
+		min-width: -moz-calc(100% - 40px);
+		min-width: -o-calc(100% - 40px);
+		min-width: -ms-calc(100% - 40px);
+		min-width: calc(100% - 40px);
+		max-width: -webkit-calc(100% - 40px);
+		max-width: -moz-calc(100% - 40px);
+		max-width: -o-calc(100% - 40px);
+		max-width: -ms-calc(100% - 40px);
+		max-width: calc(100% - 40px);
+		padding: 14px;
+	}
+}
+@media only screen and (max-width:575px){ /* XS */
+	#TamSayfaCerceveSinirlamaAlani{
+		width: -webkit-calc(100% - 36px);
+		width: -moz-calc(100% - 36px);
+		width: -o-calc(100% - 36px);
+		width: -ms-calc(100% - 36px);
+		width: calc(100% - 36px);
+		min-width: -webkit-calc(100% - 36px);
+		min-width: -moz-calc(100% - 36px);
+		min-width: -o-calc(100% - 36px);
+		min-width: -ms-calc(100% - 36px);
+		min-width: calc(100% - 36px);
+		max-width: -webkit-calc(100% - 36px);
+		max-width: -moz-calc(100% - 36px);
+		max-width: -o-calc(100% - 36px);
+		max-width: -ms-calc(100% - 36px);
+		max-width: calc(100% - 36px);
+		padding: 12px;
+	}
+}
+
+#TamSayfaCerceveAlaniIciYuzdeYuzlukAlan{
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	outline: none;
+	overflow: hidden;
+	background-color: #FFF;
+	vertical-align: top;
+	text-align: center;
+}
+
+#TamSayfaCerceveAlaniIciAltıCiziliBaslikAlani{
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	border-bottom: 1px solid #DDD;
+	outline: none;
+	overflow: hidden;
+	background-color: #FFF;
+	vertical-align: top;
+	text-align: left;
+}
+@media only screen and (min-width:1200px){ /* XL */
+	#TamSayfaCerceveAlaniIciAltıCiziliBaslikAlani{
+		padding-bottom: 20px;
+	}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){ /* L */
+	#TamSayfaCerceveAlaniIciAltıCiziliBaslikAlani{
+		padding-bottom: 18px;
+	}
+}
+@media only screen and (min-width:768px) and (max-width:991px){ /* M */
+	#TamSayfaCerceveAlaniIciAltıCiziliBaslikAlani{
+		padding-bottom: 16px;
+	}
+}
+@media only screen and (min-width:576px) and (max-width:767px){ /* S */
+	#TamSayfaCerceveAlaniIciAltıCiziliBaslikAlani{
+		padding-bottom: 14px;
+	}
+}
+@media only screen and (max-width:575px){ /* XS */
+	#TamSayfaCerceveAlaniIciAltıCiziliBaslikAlani{
+		padding-bottom: 12px;
+	}
+}
+
+#TamSayfaCerceveAlaniIciAltıCiziliBaslikAlaniUstBaslikMetni{
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	outline: none;
+	overflow: hidden;
+	background-color: #FFF;
+	vertical-align: top;
+	text-align: left;
+	font-family: Arial,"Helvatica Neue",Helvatica,sans-serif;
+	color: #F90;
+	line-height: 120%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 600;
+	text-decoration: none;
+}
+@media only screen and (min-width:1200px){ /* XL */
+	#TamSayfaCerceveAlaniIciAltıCiziliBaslikAlaniUstBaslikMetni{
+		font-size:18px;
+	}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){ /* L */
+	#TamSayfaCerceveAlaniIciAltıCiziliBaslikAlaniUstBaslikMetni{
+		font-size:16px;
+	}
+}
+@media only screen and (max-width:991px){ /* M - S - XS */
+	#TamSayfaCerceveAlaniIciAltıCiziliBaslikAlaniUstBaslikMetni{
+		font-size:14px;
+	}
+}
+
+#TamSayfaCerceveAlaniIciAltıCiziliBaslikAlaniAltBaslikMetni{
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	border: none;
+	outline: none;
+	overflow: hidden;
+	background-color: #FFF;
+	vertical-align: top;
+	text-align: left;
+	font-family: Arial,"Helvatica Neue",Helvatica,sans-serif;
+	color: #646464;
+	line-height: 120%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+@media only screen and (min-width:1200px){ /* XL */
+	#TamSayfaCerceveAlaniIciAltıCiziliBaslikAlaniAltBaslikMetni{
+		font-size:14px;
+	}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){ /* L */
+	#TamSayfaCerceveAlaniIciAltıCiziliBaslikAlaniAltBaslikMetni{
+		font-size:13px;
+	}
+}
+@media only screen and (max-width:991px){ /* M - S - XS */
+	#TamSayfaCerceveAlaniIciAltıCiziliBaslikAlaniAltBaslikMetni{
+		font-size:12px;
+	}
+}
+
+#TamSayfaCerceveAlaniIciGenelBilgilendirmeMetniAlani{
+	position: relative;
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding: 0;
+	padding-top: 10px;
+	border: none;
+	outline: none;
+	overflow: hidden;
+	background-color: #FFF;
+	vertical-align: top;
+	text-align: left;
+	font-family: Arial,"Helvatica Neue",Helvatica,sans-serif;
+	color: #646464;
+	line-height: 130%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+@media only screen and (min-width:1200px){ /* XL */
+	#TamSayfaCerceveAlaniIciGenelBilgilendirmeMetniAlani{
+		font-size:14px;
+	}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){ /* L */
+	#TamSayfaCerceveAlaniIciGenelBilgilendirmeMetniAlani{
+		font-size:13px;
+	}
+}
+@media only screen and (max-width:991px){ /* M - S - XS */
+	#TamSayfaCerceveAlaniIciGenelBilgilendirmeMetniAlani{
+		font-size:12px;
+	}
+}
