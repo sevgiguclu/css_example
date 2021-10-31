@@ -754,6 +754,7 @@ footer{
 	padding: 0;
 	border: none;
 	outline: none;
+	overflow: hidden;
 	background-color: #FFF;
 	vertical-align: top;
 	text-align: center;
@@ -3344,4 +3345,368 @@ footer{
 	.TamSayfaCerceveAlaniIciBilgiParagraflariAciklamaMetni{
 		font-size:12px;
 	}
+}
+
+.TamSayfaCerceveAlaniIciBayilerAlani{
+	position: relative;
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding:0;
+	overflow: hidden;
+	border: none;
+	outline: none;
+	background-color: #FFF;
+	text-align: left;
+	text-decoration: none;
+	vertical-align: top;
+}
+@media only screen and (min-width:1200px){ /* XL */
+	.TamSayfaCerceveAlaniIciBayilerAlani{
+		font-size:14px;
+	}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){ /* L */
+	.TamSayfaCerceveAlaniIciBayilerAlani{
+		font-size:13px;
+	}
+}
+@media only screen and (max-width:991px){ /* M - S - XS */
+	.TamSayfaCerceveAlaniIciBayilerAlani{
+		font-size:12px;
+	}
+}
+
+.TamSayfaCerceveAlaniIciBayilerBaslikMetni{
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding:0;
+	padding-top: 10px;
+	overflow: hidden;
+	border: none;
+	outline: none;
+	background-color: #FFF;
+	font-family: Arial,"Helvatica Neue",Helvatica,sans-serif;
+	color: #08C;
+	line-height: 120%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 600;
+	text-align: left;
+	text-decoration: none;
+	vertical-align: top;
+}
+@media only screen and (min-width:1200px){ /* XL */
+	.TamSayfaCerceveAlaniIciBayilerBaslikMetni{
+		font-size:14px;
+	}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){ /* L */
+	.TamSayfaCerceveAlaniIciBayilerBaslikMetni{
+		font-size:13px;
+	}
+}
+@media only screen and (max-width:991px){ /* M - S - XS */
+	.TamSayfaCerceveAlaniIciBayilerBaslikMetni{
+		font-size:12px;
+	}
+}
+
+.TamSayfaCerceveAlaniIciBayilerBilgiMetni{
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding:0;
+	padding: 10px 0;
+	overflow: hidden;
+	border: none;
+	border-bottom: 1px dashed #CCC;
+	outline: none;
+	background-color: #FFF;
+	font-family: Arial,"Helvatica Neue",Helvatica,sans-serif;
+	color: #646464;
+	line-height: 125%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-align: left;
+	text-decoration: none;
+	vertical-align: top;
+}
+@media only screen and (min-width:1200px){ /* XL */
+	.TamSayfaCerceveAlaniIciBayilerBilgiMetni{
+		font-size:14px;
+	}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){ /* L */
+	.TamSayfaCerceveAlaniIciBayilerBilgiMetni{
+		font-size:13px;
+	}
+}
+@media only screen and (max-width:991px){ /* M - S - XS */
+	.TamSayfaCerceveAlaniIciBayilerBilgiMetni{
+		font-size:12px;
+	}
+}
+
+#SayfalamaAlani{
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	padding:0;
+	overflow: hidden;
+	border: none;
+	outline: none;
+	background-color: #FFF;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: top;
+}
+
+#SayfalamaAlaniIciSayfaVeKayitSayisiAlani{
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	margin-top: 5px;
+	padding:0;
+	overflow: hidden;
+	border: none;
+	outline: none;
+	background-color: #FFF;
+	font-family: Arial,"Helvatica Neue",Helvatica,sans-serif;
+	color: #646464;
+	line-height: 120%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: top;
+}
+@media only screen and (min-width:1200px){ /* XL */
+	#SayfalamaAlaniIciSayfaVeKayitSayisiAlani{
+		font-size:14px;
+	}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){ /* L */
+	#SayfalamaAlaniIciSayfaVeKayitSayisiAlani{
+		font-size:13px;
+	}
+}
+@media only screen and (max-width:991px){ /* M - S - XS */
+	#SayfalamaAlaniIciSayfaVeKayitSayisiAlani{
+		font-size:12px;
+	}
+}
+
+#SayfalamaNumaralandirmaAlani{
+	display: block;
+	width: 100%;
+	min-width: 100%;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	margin-top: 5px;
+	padding: 0;
+	border: none;
+	overflow: hidden;
+	outline: none;
+	background-color: #FFF;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: top;
+}
+
+.SayfalamaNumaralandirmaPasif{
+	display: inline-block;
+	width: auto;
+	height: auto;
+	margin: 0 auto;
+	margin-left: 1px;
+	margin-right: 1px;
+	padding: 0;
+	padding: 5px 5px;
+	overflow: hidden;
+	border: none;
+	border: 1px solid #CCC;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-o-border-radius: 3px;
+	-ms-border-radius: 3px;
+	border-radius: 3px;
+	outline: none;
+	background-color: #FFF;
+	line-height: 120%;
+	font-family: Arial,"Helvatica Neue",Helvatica,sans-serif;
+	color: #646464;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: middle;
+	-webkit-transition: all 500ms ease-in-out;
+	-moz-transition: all 500ms ease-in-out;
+	-o-transition: all 500ms ease-in-out;
+	-ms-transition: all 500ms ease-in-out;
+	transition: all 500ms ease-in-out;
+}
+@media only screen and (min-width:1200px){ /* XL */
+	.SayfalamaNumaralandirmaPasif{
+		font-size:14px;
+	}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){ /* L */
+	.SayfalamaNumaralandirmaPasif{
+		font-size:13px;
+	}
+}
+@media only screen and (max-width:991px){ /* M - S - XS */
+	.SayfalamaNumaralandirmaPasif{
+		font-size:12px;
+	}
+}
+
+.SayfalamaNumaralandirmaPasif:hover{
+	border: 1px solid #999;
+	-webkit-transition: all 500ms ease-in-out;
+	-moz-transition: all 500ms ease-in-out;
+	-o-transition: all 500ms ease-in-out;
+	-ms-transition: all 500ms ease-in-out;
+	transition: all 500ms ease-in-out;
+}
+
+.SayfalamaNumaralandirmaPasif a{
+	font-family: Arial,"Helvatica Neue",Helvatica,sans-serif;
+	color: #646464;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-align: center;
+	text-decoration: none;
+}	
+
+.SayfalamaNumaralandirmaPasif a:link, .SayfalamaNumaralandirmaPasif a:active, .SayfalamaNumaralandirmaPasif a:visited {
+	font-family: Arial,"Helvatica Neue",Helvatica,sans-serif;
+	color: #646464;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-align: center;
+	text-decoration: none;
+}	
+
+.SayfalamaNumaralandirmaPasif a:hover{
+	font-family: Arial,"Helvatica Neue",Helvatica,sans-serif;
+	color: #999;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-align: center;
+	text-decoration: none;
+}
+	
+.SayfalamaNumaralandirmaAktif{
+	display: inline-block;
+	width: auto;
+	height: auto;
+	margin: 0 auto;
+	margin-left: 1px;
+	margin-right: 1px;
+	padding: 0;
+	padding: 5px 5px;
+	overflow: hidden;
+	border: none;
+	border: 1px solid #CCC;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-o-border-radius: 3px;
+	-ms-border-radius: 3px;
+	border-radius: 3px;
+	outline: none;
+	background-color: #08C;
+	line-height: 120%;
+	font-family: Arial,"Helvatica Neue",Helvatica,sans-serif;
+	color: #000;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: middle;
+	-webkit-transition: all 500ms ease-in-out;
+	-moz-transition: all 500ms ease-in-out;
+	-o-transition: all 500ms ease-in-out;
+	-ms-transition: all 500ms ease-in-out;
+	transition: all 500ms ease-in-out;
+}
+@media only screen and (min-width:1200px){ /* XL */
+	.SayfalamaNumaralandirmaAktif{
+		font-size:14px;
+	}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){ /* L */
+	.SayfalamaNumaralandirmaAktif{
+		font-size:13px;
+	}
+}
+@media only screen and (max-width:991px){ /* M - S - XS */
+	.SayfalamaNumaralandirmaAktif{
+		font-size:12px;
+	}
+}
+
+.SayfalamaNumaralandirmaAktif:hover{
+	border: 1px solid #999;
+	-webkit-transition: all 500ms ease-in-out;
+	-moz-transition: all 500ms ease-in-out;
+	-o-transition: all 500ms ease-in-out;
+	-ms-transition: all 500ms ease-in-out;
+	transition: all 500ms ease-in-out;
+}
+
+.SayfalamaNumaralandirmaAktif a{
+	font-family: Arial,"Helvatica Neue",Helvatica,sans-serif;
+	color: #000;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-align: center;
+	text-decoration: none;
+}	
+
+.SayfalamaNumaralandirmaAktif a:link, .SayfalamaNumaralandirmaAktif a:active, .SayfalamaNumaralandirmaAktif a:visited {
+	font-family: Arial,"Helvatica Neue",Helvatica,sans-serif;
+	color: #000;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-align: center;
+	text-decoration: none;
+}	
+
+.SayfalamaNumaralandirmaAktif a:hover{
+	font-family: Arial,"Helvatica Neue",Helvatica,sans-serif;
+	color: #999;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-align: center;
+	text-decoration: none;
 }
